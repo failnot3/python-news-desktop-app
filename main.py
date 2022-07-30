@@ -17,7 +17,7 @@ data = response["results"]
 
 window = Tk()
 
-window.title("Welcome to LikeGeeks app")
+window.title("NewsCollection app")
 
 window.geometry('800x600')
 
