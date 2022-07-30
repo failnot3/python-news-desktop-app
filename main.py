@@ -6,7 +6,7 @@ from tkinter import scrolledtext
 
 # API key authorization, Initialize the client with your API key
 
-api = NewsDataApiClient(apikey="NewsDataAPI")
+api = NewsDataApiClient(apikey="PutYourNewsDataAPIkey")
 
 # You can pass empty or with request parameters {ex. (country = "us")}
 
